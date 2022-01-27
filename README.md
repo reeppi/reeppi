@@ -1,0 +1,4 @@
+- 👋 Hi, I’m tuomas kokki 
+- 👀 I’m interested in developing something
+- 🌱 I’m currently learning javascript and react
+- 📫 How to reach me tuomas.kokki@outlook.com
