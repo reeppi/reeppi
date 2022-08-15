@@ -1,3 +1,2 @@
 - 👋 Hi, I’m tuomas kokki 
-- 🌱 I’m currently learning javascript and typescript
 - 📫 How to reach me tuomas.kokki@outlook.com
