@@ -1,2 +1,2 @@
-- 👋 Hi, I’m tuomas kokki, 39-years old automation engineer from Porvoo Finland.
+- 👋 Hi, I’m tuomas kokki, automation engineer from Porvoo Finland.
 - 📫 How to reach me tuomas.kokki@outlook.com
